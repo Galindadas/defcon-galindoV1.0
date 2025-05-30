@@ -14,7 +14,7 @@ ESX framework
 FiveM server running GTA V
 Installation
 Download or clone this repository into your resources folder:
-git clone https://github.com/yourusername/defcon-galindo.git
+git clone https://github.com/Galindadas/defcon-galindo.git
 2.Add start defcon-galindo to your server.cfg.
 
 3.START YOUR SERVER AND RUN.
